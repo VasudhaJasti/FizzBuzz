@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Our test suite renders all the mocked animal options 1`] = `ShallowWrapper {}`;
